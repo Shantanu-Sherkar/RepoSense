@@ -1,4 +1,4 @@
-# 🔍 RepoSense
+#  RepoSense
 
 **See your GitHub repo like a recruiter sees it.**
 
@@ -8,7 +8,7 @@ Built for students, hackathon participants, ametuer developers and anyone who wa
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Repository Scoring** — Get a score out of 100 with a letter grade (A–F)
 - **README Analysis** — Checks for key sections (description, installation, usage, screenshots)
@@ -20,7 +20,7 @@ Built for students, hackathon participants, ametuer developers and anyone who wa
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone & setup
 
@@ -49,7 +49,7 @@ python main.py github.com/torvalds/linux
 
 ---
 
-## 🔑 GitHub Token (Optional)
+##  GitHub Token (Optional)
 
 To avoid API rate limits (60 requests/hour without auth), set a personal access token:
 
@@ -83,7 +83,7 @@ You can generate one at: [github.com/settings/tokens](https://github.com/setting
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 repo_analyzer/
@@ -107,7 +107,7 @@ repo_analyzer/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.x**
 - **requests** — GitHub REST API
